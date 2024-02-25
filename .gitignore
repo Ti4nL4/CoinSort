@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+#lagre file
+CoinSort/Assets/demo/popup_shop.jpg
+CoinSort/Library/PackageCache/com.unity.burst@1.8.7/.Runtime/libburst-llvm-15.dylib
+CoinSort/Assets/demo/popup_startover.jpg
+CoinSort/Assets/demo/popup_bigrace.jpg
+CoinSort/Assets/demo/popup_rateus.jpg

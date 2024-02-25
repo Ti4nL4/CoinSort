@@ -1,0 +1,4 @@
+./CoinSort/Assets/demo/popup_startover.jpg filter=lfs diff=lfs merge=lfs -text
+./CoinSort/Assets/demo/popup_shop.jpg filter=lfs diff=lfs merge=lfs -text
+./CoinSort/Assets/demo/popup_rateus.jpg filter=lfs diff=lfs merge=lfs -text
+./CoinSort/Assets/demo/popup_bigrace.jpg filter=lfs diff=lfs merge=lfs -text
